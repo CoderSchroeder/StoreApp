@@ -1,0 +1,55 @@
+/* TEST */  /* this is how to comment out */
+
+body{
+	width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:'Times New Roman';
+    background-color:blanchedalmond
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+
+#header-name{
+    font-size: 40px; 
+    color:black;
+    padding: 15px;
+    margin: 0px 0px 0px 0px;
+}
+
+#main-image{
+    width: 660px;
+    height: 250;
+    float: left;
+}
+
+#sec-image{
+    width: 340px;
+    height: 250;
+    float: right;
+}
+
+#welcome{
+    width: 660px;
+    float: left;
+    font-size: 14px;
+    margin: 20px 0pc 10pc 0px;
+}
+
+#main-header{
+    
+
+}
+
+footer{
+    
+    background-color: forestgreen;
+    margin: 20px 0px 0px 0px;
+    border-radius: 10px;
+}
+
