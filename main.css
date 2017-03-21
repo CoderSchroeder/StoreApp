@@ -5,14 +5,15 @@ body{
     margin-left: auto;
     margin-right: auto;
     font-family:'Times New Roman';
-    background-color:blanchedalmond
+    background-color: white;
 }
 
 .logo{
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     border-radius: 30px;
-    margin-right: 10px;
+    margin-right: 10px; 
+    float: left;
 }
 
 #header-name{
@@ -23,33 +24,60 @@ body{
 }
 
 #main-image{
-    width: 660px;
-    height: 250;
+    width: 700px;
+    height: 250px;
     float: left;
 }
 
 #sec-image{
-    width: 340px;
-    height: 250;
+    width: 300px;
+    height: 250px;
     float: right;
 }
 
 #welcome{
-    width: 660px;
+    width: 700px;
     float: left;
     font-size: 14px;
-    margin: 20px 0pc 10pc 0px;
+    margin: 20px 0pc 10px 0px;
+}
+
+#recent-news{
+    float: right;
+    width: 300px;
+    margin: 20px 0px 20px 0px;
+}
+
+#recent-news > header{
+    margin: left;
+    color: lightgreen;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+
+#welcomeheader{
+    font-size: 22px;
+    color: blue;
 }
 
 #main-header{
-    
+    height: 80px;
 
+}
+
+#search {
+    float: right;
+    padding: 5px;
+    margin: 10px 10px 0px 0px;
 }
 
 footer{
     
     background-color: forestgreen;
     margin: 20px 0px 0px 0px;
-    border-radius: 10px;
+    border-radius: 2px;
+    
 }
 
