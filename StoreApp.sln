@@ -8,6 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{C013D36E-78B
 		..\..\..\..\Desktop\3dprinted.jpg = ..\..\..\..\Desktop\3dprinted.jpg
 		..\..\..\..\Desktop\multiseats.jpg = ..\..\..\..\Desktop\multiseats.jpg
 		img\seat1.jpg = img\seat1.jpg
+		img\swan.jpg = img\swan.jpg
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "storeApp", "storeApp", "{65598088-34EF-48D7-9A13-3FB6D0CE0858}"
