@@ -56,6 +56,14 @@ body{
     margin-bottom: 5px;
 }
 
+#recent-news > ul {
+    list-style : none;
+}
+
+#recent-news > ul > li {
+    margin: 0px 0px 4px 0px;
+}
+
 
 #welcomeheader{
     font-size: 22px;
@@ -73,6 +81,36 @@ body{
     margin: 10px 10px 0px 0px;
 }
 
+#main{
+    height: 100%;
+    width: 700px;
+    float: left;
+    margin: 0px 0px 3px 0px;
+}
+
+#wood-header{
+    color: blue;
+    font-size: 15px;
+    margin: 0px 0px 3px 0px;
+    height: 25px;
+}
+
+.products{
+    width: 25%;
+    float: left;
+    margin: 0px 0px 20px 0px;
+}
+
+.product-article{
+    height: 300px;
+    width: 250px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: coral;
+    margin: 3px 3px 3px 3px;
+    padding: 3px 3px 3px 3px;
+    border-radius: 5px;
+}
 footer{
     
     background-color: forestgreen;
@@ -81,3 +119,7 @@ footer{
     
 }
 
+#productpic{
+    height: 110px;
+    width: 110px;
+}
