@@ -4,8 +4,8 @@ body{
 	width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    font-family:'Times New Roman';
-    background-color: white;
+    font-family:'Century Gothic';
+    background-image: url(img/lightbr.jpg);
 }
 
 .logo{
@@ -39,6 +39,7 @@ body{
     width: 700px;
     float: left;
     font-size: 14px;
+    font-weight:bold;
     margin: 20px 0pc 10px 0px;
 }
 
@@ -50,7 +51,7 @@ body{
 
 #recent-news > header{
     margin: left;
-    color: lightgreen;
+    color:black;
     font-size: 15px;
     font-weight: bold;
     margin-bottom: 5px;
@@ -62,6 +63,8 @@ body{
 
 #recent-news > ul > li {
     margin: 0px 0px 4px 0px;
+    border:double;
+    font-family:'Comic Sans MS';
 }
 
 
@@ -86,6 +89,7 @@ body{
     width: 700px;
     float: left;
     margin: 0px 0px 3px 0px;
+    font-weight:bold;
 }
 
 #wood-header{
@@ -96,30 +100,58 @@ body{
 }
 
 .products{
-    width: 25%;
+    width: 700px;
     float: left;
     margin: 0px 0px 20px 0px;
 }
 
+#button{
+    margin: 10px 0px 0px 10px;
+}
+
 .product-article{
-    height: 300px;
-    width: 250px;
+    float: left;
+    position: relative;
+    height: 200px;
+    width: 200px;
     border-width: 2px;
     border-style: solid;
-    border-color: coral;
+    border-color:aliceblue;
     margin: 3px 3px 3px 3px;
     padding: 3px 3px 3px 3px;
     border-radius: 5px;
+    background-color: lightslategray;
 }
+
+
+
 footer{
-    
-    background-color: forestgreen;
-    margin: 20px 0px 0px 0px;
-    border-radius: 2px;
+    clear:both;
+    margin: 0px 0px 0px 0px;
+    width: 100%;
     
 }
+
+#bottom{
+    clear:both;
+}
+
 
 #productpic{
     height: 110px;
     width: 110px;
+}
+
+#productpic2{
+    height: 110px;
+    width: 110px;
+}
+
+#productpic3{
+    height: 110px;
+    width: 110px;
+}
+
+#pLast{
+    float:right;
 }

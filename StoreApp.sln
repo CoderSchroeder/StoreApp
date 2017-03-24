@@ -6,6 +6,8 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{C013D36E-78BB-4E74-BDF2-B492FB6DD34B}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\..\Desktop\3dprinted.jpg = ..\..\..\..\Desktop\3dprinted.jpg
+		img\backgr.jpg = img\backgr.jpg
+		img\lightbr.jpg = img\lightbr.jpg
 		..\..\..\..\Desktop\multiseats.jpg = ..\..\..\..\Desktop\multiseats.jpg
 		img\seat1.jpg = img\seat1.jpg
 	EndProjectSection
