@@ -3,7 +3,7 @@
 
 ## Landing Page
 
-![Index](https://github.com/DASchroeder/ElevenNote/blob/master/ElevenNote.Web/Screenshots/ElevenNote1.png)
+![Index](https://github.com/DASchroeder/StoreApp/blob/master/DIYFurniture1.png)
 
 
 ## back to top
