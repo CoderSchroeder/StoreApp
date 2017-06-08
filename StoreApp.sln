@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{C013D36E-78BB-4E74-BDF2-B492FB6DD34B}"
 	ProjectSection(SolutionItems) = preProject
@@ -18,11 +18,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "storeApp", "storeApp", "{65
 		main.css = main.css
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "screenshots", "screenshots", "{32987C2A-AE17-4CE0-AEB4-2FDA763D7C2E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\Portfolio\DIYFurniture\DIYFurniture1.png = ..\..\..\..\Desktop\Portfolio\DIYFurniture\DIYFurniture1.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C013D36E-78BB-4E74-BDF2-B492FB6DD34B} = {65598088-34EF-48D7-9A13-3FB6D0CE0858}
+		{32987C2A-AE17-4CE0-AEB4-2FDA763D7C2E} = {65598088-34EF-48D7-9A13-3FB6D0CE0858}
 	EndGlobalSection
 EndGlobal
